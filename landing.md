@@ -1,7 +1,7 @@
 ---
 title: Landing
 layout: landing
-description: THE BEGINING
+description: THE BEGiNiNG
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
