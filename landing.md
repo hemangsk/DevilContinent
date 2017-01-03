@@ -18,7 +18,7 @@ nav-menu: true
 </header>
   <div class="content">
 
-{{ page.description }}
+<p style = "font-size:16px; color:yellow; font-family:'Algerian'">{{ page.description }}</p>
 
 </div>
 </div>
