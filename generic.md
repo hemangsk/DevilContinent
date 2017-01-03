@@ -2,7 +2,7 @@
 layout: post
 title: Generic
 description: Lorem ipsum dolor es
-image: assets/images/pic11.jpg
+image: https://www.google.co.in/imgres?imgurl=https%3A%2F%2Fs-media-cache-ak0.pinimg.com%2F236x%2F52%2F16%2F5f%2F52165feb6f9c4c43d902be7e142350f2.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F82050024440408248%2F&docid=uMI2OenjNJNSiM&tbnid=qz8vMeeqyueoQM%3A&vet=1&w=236&h=307&bih=681&biw=1280&q=deadly%20dementors&ved=0ahUKEwji2LmcsKbRAhXLpY8KHZ1BBUkQMwgfKAMwAw&iact=mrc&uact=8
 nav-menu: true 
 ---
 
