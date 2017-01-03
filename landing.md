@@ -18,7 +18,7 @@ nav-menu: true
 </header>
   <div class="content">
 
-<p style = "font-size:25px; color:yellow; font-family:'Always in my heart'">{{ page.description }}</p>
+<p style = "font-size:25px; color:yellow; font-family:'Algerian'">{{ page.description }}</p>
 
 </div>
 </div>
@@ -28,7 +28,7 @@ nav-menu: true
   <section id="one">
   <div class="inner"><header class="major">
 
-PART 1: STRANGE
+<p style = "font-size:20px; color:yellow; font-family:'Cursive'">PART 1: STRANGE</p>
 
 </header>
 
