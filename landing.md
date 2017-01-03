@@ -13,7 +13,7 @@ nav-menu: true
 </span>
   <header class="major">
 
-DEVIL CONTINENT
+<p size = 20px; font-family = "Algerian"><b>DEVIL CONTINENT</b></p>
 
 </header>
   <div class="content">
