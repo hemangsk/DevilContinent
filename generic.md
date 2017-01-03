@@ -2,7 +2,7 @@
 layout: post
 title: Generic
 description: Lorem ipsum dolor est
-image: https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiv3bO6rabRAhWGtI8KHVHyDIAQjRwIBw&url=https%3A%2F%2Fwww.pinterest.com%2FLaZaR4LoKi%2Fclash-of-clans%2F&bvm=bv.142059868,d.c2I&psig=AFQjCNGi35FVBJfxHkU1JDIVyw976PkKPw&ust=1483545936734067
+image: https://www.google.co.in/imgres?imgurl=https%3A%2F%2Fs-media-cache-ak0.pinimg.com%2Foriginals%2F4b%2F70%2F63%2F4b7063961848b9937c76a363a486600a.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2FLaZaR4LoKi%2Fclash-of-clans%2F&docid=aflSm5NJxW5sRM&tbnid=hg1v5YYm67OFfM%3A&vet=1&w=600&h=600&bih=681&biw=1280&q=images%20of%20clash%20of%20clans%20wizard%20real%20looking&ved=0ahUKEwi1wsW1rabRAhXBNY8KHV-RB3QQMwgfKAUwBQ&iact=mrc&uact=8
 nav-menu: true
 ---
 
