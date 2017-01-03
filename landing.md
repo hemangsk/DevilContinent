@@ -42,7 +42,7 @@ nav-menu: true
   <section id="two" class="spotlights">
   <section><a href="generic.html">
   <img src="assets/images/pic08.jpg" alt="" data-position="center center">
-</a>{:.image}
+</a>
 
 <div class="content">
   <div class="inner"><header class="major">
