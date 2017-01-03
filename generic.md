@@ -2,7 +2,7 @@
 layout: post
 title: Generic
 description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+image: https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiv3bO6rabRAhWGtI8KHVHyDIAQjRwIBw&url=https%3A%2F%2Fwww.pinterest.com%2FLaZaR4LoKi%2Fclash-of-clans%2F&bvm=bv.142059868,d.c2I&psig=AFQjCNGi35FVBJfxHkU1JDIVyw976PkKPw&ust=1483545936734067
 nav-menu: true
 ---
 
