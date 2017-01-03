@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Generic
-description: Lorem ipsum dolor est
-image: https://beforeitsnews.com/alternative/2016/04/the-man-who-met-the-devil-true-story338003.html
+description: Lorem ipsum dolor es
+image: C:\Users\Hemang\Desktop\index.jpeg
 nav-menu: true
 ---
 
